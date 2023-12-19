@@ -19,7 +19,6 @@ git remote add origin https://gitlab.safaricomet.net/m-pesa-projects/mpesa-natio
 git branch -M main
 git push -uf origin main
 ```
-
 ## Integrate with your tools
 
 - [ ] [Set up project integrations](https://gitlab.safaricomet.net/m-pesa-projects/mpesa-national-promo/mpesa-national-promo-support-portal-frontend/-/settings/integrations)
